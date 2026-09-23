@@ -1,4 +1,4 @@
-# Customer Transaction Prediction (PRCP-1003)
+# Customer Transaction Prediction
 
 Predicting whether a bank customer will make a specific transaction in the future, using 200 anonymized numeric features. Built as part of a CDS capstone project.
 
